@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicholas Lachhman</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Software Engineer from Toronto</h3>
 
 - 🔭 I’m currently working on [PlanIt, a project management app:](https://planit-pms-02e37097ff17.herokuapp.com/)
 
