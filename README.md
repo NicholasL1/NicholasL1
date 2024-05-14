@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicholas Lachhman</h1>
 <h3 align="center">A passionate Software Engineer from Toronto</h3>
 
-- 🔭 I’m currently working on [PlanIt, a project management app:](https://planit-pms-02e37097ff17.herokuapp.com/)
+- 🔭 I’m currently working on [QuantumChat, a chat application:](https://quantum-bot-core.vercel.app/)
 
 - 🌱 I’m currently learning **AWS,Golang,and Express/Node**
 
