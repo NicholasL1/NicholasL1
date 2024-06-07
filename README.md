@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicholas Lachhman</h1>
 <h3 align="center">A passionate Software Engineer from Toronto</h3>
 
-- 🔭 I’m currently working on convincing my code to work like it does in my head
+- 🔭 I’m currently working on convincing my code to work like it does in my head 😃
 
 - 🌱 I’m currently learning **AWS, Golang, and Express/Node**
 
