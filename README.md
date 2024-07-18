@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on convincing my code to work like it does in my head 😃
 
-- 🌱 I’m currently learning **AWS, Golang, and Express/Node**
+- 🌱 I’m currently learning **AWS, Golang, and Springboot**
 
 - 👨‍💻 All of my projects are available at [https://ajaylachhman109.wixsite.com/nicholas-lachhman](https://ajaylachhman109.wixsite.com/nicholas-lachhman)
 
