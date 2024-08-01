@@ -125,6 +125,7 @@
 
 ###
 
-![snake gif](https://github.com/NicholasL1/NicholasL1/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/NicholasL1/NicholasL1/output/snake.svg" alt="Snake animation" />
 
 ###
+
