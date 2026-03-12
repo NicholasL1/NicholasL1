@@ -29,7 +29,7 @@
 
 <p align="left"> Check out my website here: https://nicholaslachhman.com/</p>
 
-<p align="left">I'm Nicholas Lachhman.<br><br>- 🔭 I’m currently working on StayFit - A mobile and web application for fitness tracking.<br>- 📚 I'm currently learning Java Springboot, Golang, and AWS Services<br>- ⚡ In my free time I do anything but code</p>
+<p align="left">I'm Nicholas Lachhman.<br><br>- 🔭 I’m currently working on FinSplain - A AI-powered web application that translates complex financial documents.<br>- 📚 I'm currently learning Java Springboot, Golang, and AWS Services<br>- ⚡ In my free time I do anything but code</p>
 
 ###
 
